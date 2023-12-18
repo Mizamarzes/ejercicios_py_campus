@@ -10,3 +10,12 @@ if(m>n):
     dif=m-n
 elif(n>m):
     dif=n-m
+
+if(m>n and m<=7 and dif==2):
+    print("Jugador A gano")
+elif(n>m and n<=7 and dif==2):
+    print("Jugador B gano")
+elif(m<=6 and n<=6 and dif<2):
+    print("El set no ha terminado")
+elif(m>=7 or n>=7 and dif>2):
+    print("Resultado invalido")
