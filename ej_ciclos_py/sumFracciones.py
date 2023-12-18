@@ -9,6 +9,7 @@ while True:
     total+=rta
     if tabla==0:
         print("Potencia---Fraccion---Suma")
+        tabla=1
 
     print(sum,"---",rta,"---",total)
 
