@@ -1,2 +1,7 @@
-name="Juan Diego"
-print(name)
+juan="juanito alimana"
+for i in juan:
+    print(i*4)
+
+
+
+
