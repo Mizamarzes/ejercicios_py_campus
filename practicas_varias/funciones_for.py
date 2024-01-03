@@ -30,5 +30,14 @@
 
 
 
-for i in range(0,5,1):
-    print(f"element: {i}")
+# for i in range(0,5,1):
+#     print(f"element: {i}")
+
+
+"""
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+"""
+
+print("ola goku")
+
