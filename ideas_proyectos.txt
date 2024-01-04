@@ -1,0 +1,6 @@
+Utilizar el excel para la cantidad de personas o insertar una cantidad de usuarios, ejemplos uso de archivos .csv
+De este modo se podran realizar pruebas mas sencillas del programa insertando esta informacion
+
+segun el profe con json para guardar la informacion, loco watahel
+
+
